@@ -1,1 +1,1 @@
-# info
+Earthquake Sentry Nepal (ESN) is a data science initiative focused on improving earthquake prediction and understanding in one of the world's most seismically vulnerable regions. ESN aims to harness the power of historical earthquake data, modern data science techniques, and geospatial visualization to create predictive models that could ultimately improve earthquake preparedness and potentially save lives across Nepal & other countries.
